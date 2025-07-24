@@ -1,4 +1,4 @@
-package dev.yab.spring_ai.multimodal;
+package dev.yab.spring_ai.multimodal.image;
 
 import org.springframework.ai.chat.client.ChatClient;
 import org.springframework.ai.image.ImageOptions;
